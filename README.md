@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React, Vue**
 
+- 👀 I’m currently looking for **an internship / job**
+
 - 📫 How to reach me **gabdelmarmol@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
