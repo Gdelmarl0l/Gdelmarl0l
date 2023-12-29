@@ -1,11 +1,7 @@
 <h1>Hi 👋, I'm Gabrielle</h1>
-<h3>A junior front end developer from Brussels</h3>
+<h3>A junior fullstack end developer from Brussels</h3>
 
 - 🔭 I’m currently working to improve my skills in **JavaScript, CSS**
-
-- 🌱 I’m currently learning **React, Vue**
-
-- 👀 I’m currently looking for **an internship / job**
 
 - 📫 How to reach me **gabdelmarmol@gmail.com**
 
