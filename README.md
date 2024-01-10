@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Gabrielle</h1>
-<h3>A junior fullstack end developer from Brussels</h3>
+<h3>A junior fullstack developer from Brussels</h3>
 
 - 🔭 I’m currently working to improve my skills in **JavaScript, CSS**
 
